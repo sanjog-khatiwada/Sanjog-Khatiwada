@@ -1,88 +1,82 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sanjog%20Khatiwada&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=GRIMOIRE%20%E2%80%A2%20BCA%20%40%20Tribhuvan%20University&descSize=14&descAlignY=60" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Silent+Strategist.+Loud+Builds.;React+%2B+TypeScript+%2B+Tailwind.;Designing+from+Kathmandu.;GRIMOIRE+%2F+ItzRuneNoir." />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Sanjog-Khatiwada&label=profile+views&color=00E5FF&style=flat-square)](https://github.com/Sanjog-Khatiwada)
+
+</div>
+
+<br/>
+
+## `$ whoami`
+
+BCA student at **Tribhuvan University**, Kathmandu — building on the web with a focus on clean design and intentional architecture.
+
+Currently deep in **React + TypeScript + Tailwind**, crafting my developer portfolio under the **GRIMOIRE** design system — a dark, minimal aesthetic built around deep teals and Void Cyan (`#00E5FF`).
+
+Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtube.com/@ItzRuneNoir)** and building systems that didn't exist yet.
+
+<br/>
+
+## `$ stack --list`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Eat%2C%20Sleep%2C%20Code%2C%20Repeat" alt="Typing introduction" />
-</p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Sanjog-Khatiwada">
-    <img src="https://komarev.com/ghpvc/?username=Sanjog-Khatiwada&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sanjog-Khatiwada's profile views" />
-  </a>
-</p>
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+![Figma](https://img.shields.io/badge/-Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-0d1117?style=flat-square&logo=notion&logoColor=ffffff)
 
-## 🧠 My Focus Areas
-- Web Development
-- Game Development
-- UI / UX DEsigning
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Sanjog-Khatiwada">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjog-Khatiwada&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Sanjog-Khatiwada's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Sanjog-Khatiwada&theme=dark&hide_border=true&cache_seconds=86400" alt="Sanjog-Khatiwada's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Sanjog-Khatiwada&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sanjog Khatiwada's GitHub Trophies" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </p>
 
-<h3 align="center">Database</h3>
+<br/>
+
+## `$ git log --stat`
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjog-Khatiwada&show_icons=true&theme=dark&bg_color=0d1117&border_color=00E5FF&icon_color=00E5FF&title_color=00E5FF&text_color=c9d1d9&hide_border=false&border_radius=8&cache_seconds=7200" />&nbsp;
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Sanjog-Khatiwada&theme=dark&background=0d1117&border=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanjog-Khatiwada">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjog-Khatiwada&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjog-Khatiwada&langs_count=6&layout=compact&theme=dark&bg_color=0d1117&border_color=00E5FF&title_color=00E5FF&text_color=c9d1d9&border_radius=8&cache_seconds=7200" />
 </p>
 
-## 🔗 Connect with Me
+<br/>
+
+## `$ connect`
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ItzRuneNoir">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-ItzRuneNoir-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" height="28"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:sanjogkhatiwada17@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://img.shields.io/badge/-sanjogkhatiwada17%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" height="28"/>
   </a>
 </p>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -90,9 +84,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/Sanjog.Khatiwada" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00E5FF,100:0a0e1a&section=footer" />
 </div>
-
