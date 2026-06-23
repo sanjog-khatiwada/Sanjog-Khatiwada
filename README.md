@@ -1,13 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFEFD7:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=FFEFD7&animation=fadeIn&fontAlignY=40&desc=Student%20at%20Tribhuvan%20University&descSize=14&descAlignY=60" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FFEFD7&center=true&vCenter=true&width=520&lines=Silent+Strategist.+Loud+Builds.;React+%2B+TypeScript+%2B+Tailwind.;Designing+from+Kathmandu.;GRIMOIRE+%2F+ItzRuneNoir." />
-
-<br/>
-
+  <!-- Premium Header Line -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFEFD7:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=FFEFD7&animation=fadeIn&fontAlignY=40&desc=Student%20at%20Tribhuvan%20University&descSize=14&descAlignY=60" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FFEFD7&center=true&vCenter=true&width=520&lines=Silent+Strategist.+Loud+Builds.;React+%2B+TypeScript+%2B+Tailwind.;Designing+from+Kathmandu.;GRIMOIRE+%2F+ItzRuneNoir." />
 </div>
 
 <br/>
@@ -25,24 +20,28 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 ## `$ stack --list`
 
 <p align="center">
-
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-![Figma](https://img.shields.io/badge/-Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-0d1117?style=flat-square&logo=notion&logoColor=ffffff)
-
-![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-
+  <!-- Core Stack -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <br/>
+  <!-- Design & Tools -->
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
+  <br/>
+  <!-- Low Level & Database -->
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <br/>
@@ -64,18 +63,19 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ItzRuneNoir">
-    <img src="https://img.shields.io/badge/-ItzRuneNoir-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" height="28"/>
-  </a>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" height="28"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:sanjogkhatiwada17@gmail.com">
-    <img src="https://img.shields.io/badge/-sanjogkhatiwada17%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
 
 <br/>
 
+<!-- Activity Animation Footer -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
