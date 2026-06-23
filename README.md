@@ -65,10 +65,10 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.youtube.com/@ItzRuneNoir">
     <img src="https://img.shields.io/badge/-ItzRuneNoir-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" height="28"/>
-  </a>&nbsp;
+  </a>
   <a href="mailto:sanjogkhatiwada17@gmail.com">
     <img src="https://img.shields.io/badge/-sanjogkhatiwada17%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" height="28"/>
   </a>
