@@ -21,27 +21,33 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 
 <p align="center">
   <!-- Core Stack -->
+<p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=0d1117" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=0d1117" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-  <br/>
-  <!-- Design & Tools -->
+</p>
+
+<!-- Design & Tools -->
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
-  <br/>
-  <!-- Low Level & Database -->
+</p>
+
+<!-- Low Level & Database -->
+<p align="center">
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 </p>
 
 <br/>
@@ -63,13 +69,10 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ItzRuneNoir">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" height="28"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:sanjogkhatiwada17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>
 </p>
 
