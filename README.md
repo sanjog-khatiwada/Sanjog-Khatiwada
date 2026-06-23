@@ -73,21 +73,23 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 
 ## `$ connect`
 
-<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td align="center" style="border: none; padding: 0 20px; background: transparent;">
-      <a href="https://www.linkedin.com/in/sanjog-khatiwada/" style="text-decoration: none; color: inherit;">
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- LinkedIn Column -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-        <br />
-        <sub style="color: #FFEFD7;">LinkedIn</sub>
       </a>
+      <br />
+      <sub><b>LinkedIn</b></sub>
     </td>
-    <td align="center" style="border: none; padding: 0 20px; background: transparent;">
-      <a href="https://www.youtube.com/@ItzRuneNoir" style="text-decoration: none; color: inherit;">
+    <!-- YouTube Column -->
+    <td align="center" style="border: none; padding: 0 20px;">
+      <a href="https://www.youtube.com/@ItzRuneNoir">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-        <br />
-        <sub style="color: #FFEFD7;">YouTube</sub>
       </a>
+      <br />
+      <sub><b>YouTube</b></sub>
     </td>
   </tr>
 </table>
