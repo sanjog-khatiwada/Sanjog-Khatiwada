@@ -4,8 +4,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFEFD7:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=FFEFD7&animation=fadeIn&fontAlignY=40&desc=Student%20at%20Tribhuvan%20University&descSize=14&descAlignY=60" />
 
-  <br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=FFEFD7&center=true&vCenter=true&width=520&lines=Silent+Strategist.+Loud+Builds.;React+%2B+TypeScript+%2B+Tailwind.;Designing+from+Kathmandu.;GRIMOIRE+%2F+ItzRuneNoir." />
 
 </div>
