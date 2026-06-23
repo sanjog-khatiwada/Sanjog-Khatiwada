@@ -70,9 +70,9 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 ## `$ connect`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjog-khatiwada/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ItzRuneNoir"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" height="28"/></a>&nbsp;&nbsp;
-  <a href="mailto:sanjogkhatiwada17@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/sanjog-khatiwada/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ItzRuneNoir"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" /></a>
+
 </p>
 
 <br/>
