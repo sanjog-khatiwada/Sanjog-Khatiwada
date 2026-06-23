@@ -100,9 +100,9 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
   <img height="165em" src="https://streak-stats.demolab.com/?user=Sanjog-Khatiwada&theme=dark&background=0d1117&border=FFEFD7&ring=FFEFD7&fire=FFEFD7&currStreakLabel=FFEFD7&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=86400" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjog-Khatiwada&langs_count=6&layout=compact&theme=dark&bg_color=0d1117&border_color=FFEFD7&title_color=FFEFD7&text_color=c9d1d9&border_radius=8&cache_seconds=7200" />
-</p>
+</p> -->
 
 <br/>
 
