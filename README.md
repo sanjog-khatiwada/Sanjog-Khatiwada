@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=GRIMOIRE%20%E2%80%A2%20BCA%20%40%20Tribhuvan%20University&descSize=14&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tribhuvan%20University&descSize=14&descAlignY=60" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 BCA student at **Tribhuvan University**, Kathmandu — building on the web with a focus on clean design and intentional architecture.
 
-Currently deep in **React + TypeScript + Tailwind**, crafting my developer portfolio under the **GRIMOIRE** design system — a dark, minimal aesthetic built around deep teals and Void Cyan (`#00E5FF`).
+Currently deep in **React + TypeScript + Tailwind**, crafting my developer portfolio under the **GRIMOIRE** design system.
 
 Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtube.com/@ItzRuneNoir)** and building systems that didn't exist yet.
 
@@ -50,7 +50,7 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 ## `$ git log --stat`
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjog-Khatiwada&show_icons=true&theme=dark&bg_color=0d1117&border_color=FFEFD7&icon_color=00E5FF&title_color=FFEFD7&text_color=c9d1d9&hide_border=false&border_radius=8&cache_seconds=7200" />&nbsp;
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjog-Khatiwada&show_icons=true&theme=dark&bg_color=0d1117&border_color=FFEFD7&icon_color=FFEFD7&title_color=FFEFD7&text_color=c9d1d9&hide_border=false&border_radius=8&cache_seconds=7200" />&nbsp;
   <img height="165em" src="https://streak-stats.demolab.com/?user=Sanjog-Khatiwada&theme=dark&background=0d1117&border=FFEFD7&ring=FFEFD7&fire=FFEFD7&currStreakLabel=FFEFD7&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=86400" />
 </p>
 
