@@ -8,8 +8,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sanjog-Khatiwada&label=profile+views&color=00E5FF&style=flat-square)](https://github.com/Sanjog-Khatiwada)
-
 </div>
 
 <br/>
@@ -52,12 +50,12 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 ## `$ git log --stat`
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjog-Khatiwada&show_icons=true&theme=dark&bg_color=0d1117&border_color=00E5FF&icon_color=00E5FF&title_color=00E5FF&text_color=c9d1d9&hide_border=false&border_radius=8&cache_seconds=7200" />&nbsp;
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Sanjog-Khatiwada&theme=dark&background=0d1117&border=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjog-Khatiwada&show_icons=true&theme=dark&bg_color=0d1117&border_color=FFEFD7&icon_color=00E5FF&title_color=FFEFD7&text_color=c9d1d9&hide_border=false&border_radius=8&cache_seconds=7200" />&nbsp;
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Sanjog-Khatiwada&theme=dark&background=0d1117&border=FFEFD7&ring=FFEFD7&fire=FFEFD7&currStreakLabel=FFEFD7&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjog-Khatiwada&langs_count=6&layout=compact&theme=dark&bg_color=0d1117&border_color=00E5FF&title_color=00E5FF&text_color=c9d1d9&border_radius=8&cache_seconds=7200" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjog-Khatiwada&langs_count=6&layout=compact&theme=dark&bg_color=0d1117&border_color=FFEFD7&title_color=FFEFD7&text_color=c9d1d9&border_radius=8&cache_seconds=7200" />
 </p>
 
 <br/>
