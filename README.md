@@ -28,7 +28,7 @@ Currently deep in **React + TypeScript + Tailwind**, crafting my developer portf
 
 
 
-Outside code: no-commentary Minecraft survival on <a herf="https://youtube.com/@ItzRuneNoir">@ItzRuneNoir</a> and building systems that didn't exist yet.
+Outside code: no-commentary Minecraft survival on **<a href="https://youtube.com/@ItzRuneNoir">@ItzRuneNoir</a>** and building systems that didn't exist yet.
 
 
 
