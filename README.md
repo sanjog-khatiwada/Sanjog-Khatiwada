@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tribhuvan%20University&descSize=14&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0e1a,60:0c1f1f,100:00E5FF&text=Sanjog%20Khatiwada&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Student%20at%20Tribhuvan%20University&descSize=14&descAlignY=60" />
 
 <br/>
 
