@@ -31,7 +31,7 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)&nbsp;
@@ -64,11 +64,11 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" height="28"/>
+  </a>&nbsp;
   <a href="https://www.youtube.com/@ItzRuneNoir">
     <img src="https://img.shields.io/badge/-ItzRuneNoir-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" height="28"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="mailto:sanjogkhatiwada17@gmail.com">
     <img src="https://img.shields.io/badge/-sanjogkhatiwada17%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" height="28"/>
   </a>
