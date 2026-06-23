@@ -50,18 +50,6 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
     <td align="center" style="border: transparent; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" /><br /><sub>Python</sub></td>
     <td align="center" style="border: transparent; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /><br /><sub>Java</sub></td>
     <td align="center" style="border: transparent; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" /><br /><sub>C++</sub></td>
-
-  </tr>
-
-</table>
-
-
-
-<!-- Frontend -->
-
-<table align="center" style="border: transparent; border-collapse: collapse;">
-
-  <tr style="border: none;">
     <td align="center" style="border: transparent; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" /><br /><sub>React</sub></td>
     <td align="center" style="border: transparent; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" /><br /><sub>HTML5</sub></td>
     <td align="center" style="border: transparent; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" /><br /><sub>CSS3</sub></td>
