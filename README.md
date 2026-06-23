@@ -45,15 +45,10 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 <table align="center" style="border: none; border-collapse: collapse;">
 
   <tr style="border: none;">
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /><br /><sub>JavaScript</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" /><br /><sub>TypeScript</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" /><br /><sub>Python</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /><br /><sub>Java</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" /><br /><sub>C++</sub></td>
 
   </tr>
@@ -67,11 +62,8 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 <table align="center" style="border: none; border-collapse: collapse;">
 
   <tr style="border: none;">
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" /><br /><sub>React</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" /><br /><sub>HTML5</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" /><br /><sub>CSS3</sub></td>
 
   </tr>
@@ -85,7 +77,6 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 <table align="center" style="border: none; border-collapse: collapse;">
 
   <tr style="border: none;">
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" /><br /><sub>MySQL</sub></td>
 
   </tr>
@@ -99,13 +90,9 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 <table align="center" style="border: none; border-collapse: collapse;">
 
   <tr style="border: none;">
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" /><br /><sub>Git</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" /><br /><sub>VS Code</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br /><sub>Figma</sub></td>
-
     <td align="center" style="border: none; padding: 15px;"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" /><br /><sub>Vite</sub></td>
 
   </tr>
@@ -151,37 +138,21 @@ Outside code: no-commentary Minecraft survival on **[ItzRuneNoir](https://youtub
 <table align="center" style="border: none; border-collapse: collapse;">
 
   <tr style="border: none;">
-
     <!-- LinkedIn Column -->
-
     <td align="center" style="border: none; padding: 0 20px;">
-
       <a href="https://www.linkedin.com/in/sanjog-khatiwada/">
-
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-
       </a>
-
       <br />
-
       <sub><b>LinkedIn</b></sub>
-
     </td>
-
     <!-- YouTube Column -->
-
     <td align="center" style="border: none; padding: 0 20px;">
-
       <a href="https://www.youtube.com/@ItzRuneNoir">
-
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-
       </a>
-
       <br />
-
       <sub><b>YouTube</b></sub>
-
     </td>
 
   </tr>
