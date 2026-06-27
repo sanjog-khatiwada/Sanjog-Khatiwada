@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://cdn.pfps.gg/banners/8263-the-garden-of-words-1.gif" alt="Banner" width="100%" height="50%"/>
+<img src="[https://cdn.pfps.gg/banners/8263-the-garden-of-words-1.gif](https://camo.githubusercontent.com/ff244f3dd8fc18416ffa951754753fdd6ee7e245a2d0eea0258837812f862870/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61642f66632f63642f61646663636436613732353135333539633163323833663931326236373631362e676966)" alt="Banner" width="100%" height="50%"/>
 
 
 
